@@ -5,6 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project follows to [Ragnarök Versioning Convention](https://shor.cz/ragnarok_versioning_convention).
 
+## Opticraft Version 1.14-Dev-0 - 2025-01-07
+
+### Added
+
+- ARIA attributes on certain elements for a11y
+
+### Fixed
+
+- Text failing WCAG AA tests
+- Certain elements not being visible during keyboard navigation
+
+### Changed
+
+- Positioning of elements to adjust properly to different screen sizes
+- Tweaks for more semantic HTML -- this excludes download buttons
+
 ## Opticraft Version 1.13 2024-02-05
 
 ### Added
